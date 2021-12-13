@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "joplin_day_review2",
+	"app_min_version": "2.2",
+	"version": "1.0.0",
+	"name": "joplin_day_review2",
+	"description": "day review",
+	"author": "robinchenyu",
+	"homepage_url": "https://github.com/robinchenyu/joplin_day_review2",
+	"repository_url": "https://github.com/robinchenyu/joplin_day_review2.git",
+	"keywords": []
+}
